@@ -123,5 +123,8 @@
             }
         }
     },
-    "defaultProject": "Materialize"
+    "defaultProject": "Materialize",
+    "cli": {
+      "analytics": "6fd1fcf7-099f-4122-868d-d082ab39da0f"
+    }
 }
